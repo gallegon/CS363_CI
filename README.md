@@ -1,1 +1,4 @@
-# CS363_CI
+# Continuous integration in class activity
+
+![Circle CI screenshot](./img/circleci_screenshot.png)
+![GitHub commits screenshot](./img/github_screenshot.png)
